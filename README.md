@@ -10,3 +10,4 @@ I leave in this repository a login screen made with PySimpleGUI.
 ![alt text](https://github.com/DaniloPorto30/Layout_Python_PySimpleGUI/blob/master/login.png?raw=true)
 
 ----
+Install the Python extension.
